@@ -1,5 +1,7 @@
 title: Enoson Mathivannan | OSCP | CApen | VAPT
 description: Professional Technical Resume of Enoson Mathivannan, a Cybersecurity Specialist with expertise in VAPT, Cloud Security, and Automation.
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
 google_analytics: # Add your GA tracking ID here
 show_downloads: false
