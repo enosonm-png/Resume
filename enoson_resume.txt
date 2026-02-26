@@ -1,0 +1,225 @@
+Vulnerability Assessment and Penetration Tester
+Location – Gurgaon, Panchkula, Bangalore.
+
+Gemini Solutions is a global IT consulting firm and a leading offshore outsourcing company with
+an expertise in BFSI domain. Founded and owned by IIT Delhi and IIIT Hyderabad alumni,
+Gemini has grown from 4 people to a mid-sized company of 1000+ members, doubling in the last
+three years. We are present at 6 locations in India, and in US, Canada & Middle East. You are
+looking at a debt-free firm with a 25% CAGR of revenue/profits for the past 4 years.
+We have expertise across each part of the entire Software Development Life Cycle Development, Quality Assurance, 24x7 DevOps and also Infrastructure/Managed Services.
+Today we can boast of experts in 60+ technologies who have successfully delivered globally
+distributed projects including but not limited to application development, legacy to cloud
+migrations, tech stack transitions, capacity planning & infrastructure support and end-to-end
+implementations.
+People first approach has been a cornerstone of the Gemini governance philosophy. Our young
+talent is handpicked from Tier I & II colleges of India. A fresher would undergo over 300 hours
+of in-depth training and mentoring to make her/him a reliable problem solver. We encourage
+external certifications for all employees and our in-house Gem University offers over 100 courses
+across skills and technologies. Here you can choose different ways to lead your growth. We
+believe businesses can grow with a conscience and succeed with it. We welcome you to our
+Gemini ecosystem that unites software, education, and community to help businesses grow better.
+Take a sneak peek at our culture here: https://www.youtube.com/watch?v=kEqIgVaE0b4&t=24s
+
+Celebrating 12 Glorious Years!
+
+POSITION SUMMARY
+We are seeking a highly skilled and motivated Vulnerability Assessment and Penetration Tester (VAPT)
+to join our cybersecurity team. As a VAPT expert, you will play a key role in identifying vulnerabilities,
+performing penetration tests, and ensuring the overall security posture of our systems, applications, and
+networks. Your work will help protect critical business data, prevent security breaches, and strengthen the
+company’s security framework. The ideal candidate will have a deep understanding of cybersecurity
+vulnerabilities, hacking methodologies, and penetration testing tools, with the ability to assess and manage
+potential risks to organizational assets.
+
+RESPONSIBILITES
+Vulnerability Assessment
+•
+
+Conduct regular vulnerability scans on systems, networks, and applications to identify security
+flaws.
+
+•
+
+Analyse and prioritize vulnerabilities based on risk and impact, providing detailed reports with
+actionable recommendations for remediation.
+
+•
+
+Perform threat modelling and risk analysis to predict and mitigate security risks.
+
+•
+
+Collaborate with development and operations teams to ensure vulnerabilities are resolved
+promptly.
+Penetration Testing
+
+•
+
+Plan, execute, and document penetration tests on web applications, network infrastructure, and
+other technologies to evaluate security weaknesses.
+
+•
+
+Use a variety of tools and techniques (e.g., Metasploit, Burp Suite, Nessus, Nmap) to simulate
+real-world attacks and exploits.
+
+•
+
+Develop exploitation strategies and techniques for bypassing security controls and gaining
+unauthorized access.
+
+•
+
+Provide detailed findings, including proof-of-concept exploitations, and suggest remediation
+actions.
+Security Audits & Compliance
+
+•
+
+Assist in security audits and assessments to ensure compliance with internal and external security
+standards, including GDPR, HIPAA, and PCI DSS.
+
+•
+
+Create and maintain security documentation for audits, risk assessments, and reporting purposes.
+
+Celebrating 12 Glorious Years!
+
+Security Research
+•
+
+Stay updated with the latest cybersecurity threats, vulnerabilities, attack vectors, and emerging
+trends.
+
+•
+
+Research and recommend new tools, techniques, and best practices to improve penetration testing
+and vulnerability assessment procedures.
+Collaboration & Reporting
+
+•
+
+Work closely with IT teams, developers, and other stakeholders to integrate security best practices
+into the development lifecycle.
+
+•
+
+Provide detailed reports of findings, including technical documentation, risk analysis, and clear,
+concise recommendations.
+
+•
+
+Present findings to both technical and non-technical teams, explaining vulnerabilities and
+remediation strategies.
+Incident Response
+
+•
+
+Participate in incident response activities, identifying vulnerabilities exploited during security
+incidents, and helping resolve them effectively.
+
+•
+
+Assist in forensic analysis and remediation after security incidents, focusing on penetration
+pathways and weaknesses.
+EXPERIENCE AND REQUIRED SKILL SETS
+
+•
+
+Minimum 3+ years of experience in vulnerability assessment and penetration testing domain.
+
+•
+
+Proven track record in identifying, exploiting, and remediating vulnerabilities across networks,
+applications, and systems.
+
+•
+
+In-depth knowledge of network protocols, operating systems (Linux, Windows, etc.), web
+application technologies, and common security tools.
+
+•
+
+Expertise in penetration testing tools like Burp Suite, Metasploit, Nessus, Nmap, Wireshark, etc.
+
+•
+
+Strong knowledge of ethical hacking techniques, vulnerability scanning, and risk analysis.
+
+•
+
+Familiarity with network security concepts such as firewalls, VPNs, IDS/IPS, and SIEM tools.
+
+•
+
+Strong problem-solving skills and attention to detail.
+
+•
+
+Ability to communicate complex technical findings in a clear, non-technical manner.
+
+•
+
+Proficiency in scripting languages such as Python, Bash, or PowerShell for automation and
+exploitation.
+
+•
+
+Experience with web application firewalls (WAF) and bypass techniques.
+
+•
+
+Familiarity with cloud platforms and services (AWS, Azure, Google Cloud).
+
+•
+
+Experience with Red Teaming and simulated cyberattack scenarios.
+
+Celebrating 12 Glorious Years!
+
+•
+
+Knowledge of malware analysis and reverse engineering.
+
+•
+
+Strong analytical and critical thinking skills.
+
+•
+
+Self-motivated and able to work independently as well as part of a team.
+
+•
+
+Strong communication and presentation skills.
+
+•
+
+Ability to stay calm under pressure and meet deadlines in a fast-paced environment.
+
+•
+
+High ethical standards and a commitment to protecting organizational data.
+
+EDUCATION
+Education: Bachelor’s degree in computer science, Information Security, Cybersecurity, or a related field, or
+equivalent work experience.
+
+Certifications: Industry-recognized certifications must have as:
+•
+•
+
+Offensive Security Certified Professional (OSCP)
+Certified Information Systems Security Professional (CISSP)
+
+WHERE ELSE YOU CAN FIND US
+www.geminisolutions.com
+@gemini.solutions
+Gemini Solutions Pvt Ltd
+@gemsolindia
+@GeminiIndia
+Gemini Solutions
+
+Celebrating 12 Glorious Years!
+
+
